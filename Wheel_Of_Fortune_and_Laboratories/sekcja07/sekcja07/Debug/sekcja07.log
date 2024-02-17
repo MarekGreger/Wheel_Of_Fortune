@@ -1,0 +1,19 @@
+﻿  laborki1.cpp
+  laborki2.cpp
+  laborki3.cpp
+  laborki4.cpp
+  laborki5.cpp
+  laborki6.cpp
+  KoloFortuny.cpp
+  mapowanie.cpp
+  Naglowek.cpp
+C:\Users\grege\Documents\GitHub\3180cf95-gr07-repo\Laboratorium\sekcja07\sekcja07\Naglowek.cpp(14,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\grege\Documents\GitHub\3180cf95-gr07-repo\Laboratorium\sekcja07\sekcja07\Naglowek.cpp(82,26): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\grege\Documents\GitHub\3180cf95-gr07-repo\Laboratorium\sekcja07\sekcja07\Naglowek.cpp(104,26): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\grege\Documents\GitHub\3180cf95-gr07-repo\Laboratorium\sekcja07\sekcja07\Naglowek.cpp(140,30): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\grege\Documents\GitHub\3180cf95-gr07-repo\Laboratorium\sekcja07\sekcja07\Naglowek.cpp(165,26): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\grege\Documents\GitHub\3180cf95-gr07-repo\Laboratorium\sekcja07\sekcja07\Naglowek.cpp(212,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\grege\Documents\GitHub\3180cf95-gr07-repo\Laboratorium\sekcja07\sekcja07\Naglowek.cpp(262,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  probny.cpp
+  Generowanie kodu...
+  sekcja07.vcxproj -> C:\Users\grege\Documents\GitHub\3180cf95-gr07-repo\Laboratorium\sekcja07\Debug\sekcja07.exe
